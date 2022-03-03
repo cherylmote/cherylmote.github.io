@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang = "en">
+<head>
+<title> Dessert </title>
+<meta charset = "UTF-8">
+<meta name = "viewport" content = "wilih=device-wilih, initial-scale=1">
+<link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+<header>
+<h1>Teja's Veggie Wonderland!</h1>
+<h2><i>spreading hap-pea-ness since 2022</i></h2>
+</header>
+
+<nav>
+<a href = "About.html" class="press"> About </a>
+<a href = "Website.html" class="press"> Home </a>
+<a href = "Breakfast.html" class="press"> Bright and Early Breakfast Time! </a>
+<a href = "Lunch.html" class="press"> Exciting Entr&eacute;es </a>
+</nav>
+
+<h3> Delectable Desserts :) </h3>
+<h4> <i> Mug Cookie </i></h4>
+
+<div class="row">
+  <div class="column">
+    <h4>Ingredients: </h4>
+
+  <ul style="list-style-type:none"> 
+  <li> <input type="checkbox"> 1 tablespoon unsalted butter</li>
+  <li> <input type="checkbox"> 1 tablespoon granulated sugar</li>
+  <li> <input type="checkbox"> 1 tablespoon packed brown sugar</li>
+  <li> <input type="checkbox"> 1/2 teaspoon vanilla extract</li>
+  <li> <input type="checkbox"> 1 egg yolk</li>
+  <li> <input type="checkbox"> 3 tablespoons all-purpose flour</li>
+  <li> <input type="checkbox"> Lots of chocolate chips</li>
+  </ul>
+ 
+  </div>
+  <div class="column">
+  <h4>Directions: </h4>
+  <p>I initially begin by softening the butter in a mug and then mix in all the ingredients.
+  Then, I microwave for about one minute (be careful that you don't burn it!). You can enjoy 
+  this cookie by itself, or with some vanilla bean ice-cream. DELISH!</p>
+  
+  <img src = "10Cookie.jpeg" alt = "Cookie" width = "500" class="center">
+  </div>
+
+</div>
+
+<footer>
+<p> Author: Teja Balasubramanian </p>
+</footer>
+
+</body>
+</html>

@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang = "en">
+<head>
+<title> Lunch </title>
+<meta charset = "UTF-8">
+<meta name = "viewport" content = "wilih=device-wilih, initial-scale=1">
+<link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+
+<header>
+<h1>Teja's Veggie Wonderland!</h1>
+<h2><i>spreading hap-pea-ness since 2022</i></h2>
+</header>
+
+<nav>
+<a href = "About.html" class="press"> About </a>
+<a href = "Website.html" class="press"> Home </a>
+<a href = "Breakfast.html" class="press"> Bright and Early Breakfast Time! </a>
+<a href = "Dessert.html" class="press"> Delectable Desserts :) </a> 
+</nav>
+
+<h3> Exciting Entr&eacute;es </h3>
+<h4> <i>Lobia (Black Eyed Peas Curry) </i></h4>
+<p>
+Coming from an Indian heritage, I love Indian cooking, culture and food! When I moved into
+college, I also bought an Instant Pot (<a href = "https://www.amazon.com/Instant-Pot-Multi-Use-Programmable-Pressure/dp/B00FLYWNYQ/ref=sr_1_2?crid=8I5NCIWX6CWB&keywords=instant+pot&qid=1645410597&sprefix=insta%2Caps%2C223&sr=8-2"></a>
+ and having it has been a game-changer. I love making tons and tons of dishes using 
+ the pressure cooker function. One Indian recipe that I recently made is called 
+ lobia, which is Punjabi black eyed peas curry). It can be eatedn with Indian bread
+ or rice. 
+</p>
+<p><b>Ingredients:</b></p>
+<ul style="list-style-type:none"> 
+  <li> <input type="checkbox"> 1 cup black eyed peas</li>
+  <li> <input type="checkbox"> 1 tablespoon oil</li>
+  <li> <input type="checkbox"> 1 tablespoon cumin seeds</li>
+  <li> <input type="checkbox"> 1 green chili pepper (diced)</li>
+  <li> <input type="checkbox"> 1 cup onion </li>
+  <li> <input type="checkbox"> 1/2 tablespoon ginger (grated) </li>
+  <li> <input type="checkbox"> 1/2 tablespoon garlic (minced) </li>
+  <li> <input type="checkbox"> 1 cup tomato </li>
+  <li> <input type="checkbox"> 2 cups water </li>
+  <li> <input type="checkbox"> 1 teaspoon lime juice </li>
+  <li> <input type="checkbox"> cilantro (to garnish)</li>
+  <li> <input type="checkbox"> 1/2 teaspoon ground turmeric</li>  
+  <li> <input type="checkbox"> 1/2-1 teaspoon kashmiri red chili powder</li>
+  <li> <input type="checkbox"> 1 teaspoon coriander powder</li>  
+  <li> <input type="checkbox"> 1 teaspoon garam masala</li>  
+  <li> <input type="checkbox"> 1 teaspoon salt</li> 
+</ul>
+
+<p> We start by soaking the black eyed peas in water overnight. I start with the 
+instant pot in the saut&eacute; mode. I add the oil and wait until it is heated. 
+When hot enough, I add the cumin seeds. Then, we add 
+the diced green chili pepper. Once the cumin seeds begin to sputter, I like to add the onions, ginger,
+and garlic. After it is well cooked, I add the tomatoes and spices and cook it a little longer. 
+Lastly add the black eyed peas (make sure to strain it, first), along with the about
+2 cups of water. Then, press "Cancel" to leave the saut&eacute; mode, and begin 
+pressure cooking at high pressure for 12 minutes. When done cooking, let the pressure
+release manually, stir in lime juice, and garnish with cilantro. 
+
+<br> 
+<br>
+
+I like this recipe because it does not take too long and is kind to the wallet, as well!
+I also like <a href = "https://pipingpotcurry.com/23-best-instant-pot-indian-recipes/"> Piping Pot Curry </a>, 
+which has tons of Indian instant pot recipes!
+</p>
+<br>
+
+<img src = "9Lobia.jpg"
+alt = "Lobia curry" class="center" width = "150">
+
+<footer>
+<p> Author: Teja Balasubramanian </p>
+</footer>
+
+</body>
+</html>
